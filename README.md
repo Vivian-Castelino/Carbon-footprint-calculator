@@ -19,4 +19,5 @@ Whether you're eco-curious or already green-minded, this tool gives you personal
 ## 🚀 Try It Out
 
 Open the project :
-https://github.com/vivian-castelino/carbon-footprint-calculator.git
+https://github.com/vivian-castelino/carbon-footprint-calculator/
+
